@@ -14,7 +14,7 @@ The above image illustrates the comparison between artificial perceptual learnin
 
 We used the APL framework to estimate the spatial distribution of three target species, the palm *Prestoea acuminata*, and the tree species *Cecropia schreberiana* and *Manilkara bidentata*, over a 5,000-hectare area of El Yunque National Forest.
 
-<img src='figs/island.png' height='280'> <img src='figs/forest.png' height='280'>
+<img src='figs/island.png' height='230'> <img src='figs/forest.png' height='230'>
 
 **FIGURE 2.** Left: Location of El Yunque National Forest (EYNF) in Puerto Rico; Right: G-LiHT flight lines and location of the Luquillo Forest Dynamics Plot (LFDP) (yellow box).
 
@@ -36,7 +36,7 @@ The large-scale maps are based on unlabeled high-resolution aerial images of uns
 
 <img src='figs/PREMON.png' width='330'>  <img src='figs/CECSCH.png' width='330'> <img src='figs/MANBID.png' width='330'>
 
-**FIGURE 5.** Visualization of APL predictions over EYNF. Left: *Prestoea acuminata*; Center: *Cecropia schreberiana*; Right: *Manilkara bidentata*. The color represents the estimated proportion covered by the target species (Blue: low, Red: high).
+**FIGURE 5.** Visualization of APL predictions over EYNF. Upper Left: *Prestoea acuminata*; Upper Right: *Cecropia schreberiana*; Lower Left: *Manilkara bidentata*. The color represents the estimated proportion covered by the target species (Blue: low, Red: high).
 
 
 
